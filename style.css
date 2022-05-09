@@ -1,0 +1,29 @@
+body {
+    background-color: #D9C2B0;
+    color: #524F4A;
+    font-family: 'Syne';
+    font-kerning: normal;
+}
+#container {
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#header {
+    text-align: center;
+    color: #C09984
+}
+#content {
+    padding: 0px;
+    float: right;
+}
+#navigation {
+    width: 200px;
+    background-color: #A6A998;
+    float: left;
+    padding-left: 25px;
+}
+#navigation ol {
+    list-style-type: none;
+    padding: 0;
+}
